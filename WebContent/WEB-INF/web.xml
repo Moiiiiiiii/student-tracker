@@ -3,7 +3,5 @@
   <display-name>web-student-tracker-solution</display-name>
   <welcome-file-list>
     <welcome-file>StudentControllerServlet</welcome-file>
-    <welcome-file>index.jsp</welcome-file>
-    <welcome-file>index.html</welcome-file>
   </welcome-file-list>
 </web-app>
